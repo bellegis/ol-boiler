@@ -1,5 +1,7 @@
 # OpenLayers boilerplate template
+This is a boilerplate template for building an OpenLayers web app. It contains a directory setup and displays a basic web map. 
 
+## Get started
 To download the dependencies this project needs, open a new terminal at this folder and run `npm install`.
 
 To view a working copy locally, run `npm start`, and type URL `localhost:1234` into a web browser.
